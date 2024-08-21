@@ -1,8 +1,10 @@
 #ignorar archivos de video
-.mp4
+*.mp4
 
 #ignorar archivos de audio
-.mp3
+#*.mp3
 
 #ignorar archivos de imagen
-.jpg
+#*.jpg
+
+*ogm
